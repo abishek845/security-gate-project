@@ -1,4 +1,4 @@
-# Test file with fake credentials
-AWS_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE"
-PASSWORD = "super_secret_123"
-API_KEY = "sk-1234567890abcdef"
+# Test file with REAL fake credentials
+aws_access_key_id = "AKIAIOSFODNN7EXAMPLE"
+aws_secret_access_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+password = "MySuperSecret123!"
