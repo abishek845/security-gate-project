@@ -1,1 +1,3 @@
 hello world
+This is my security project test file.
+Testing the security gate workflow.
